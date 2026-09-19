@@ -217,12 +217,12 @@ instead of the standard SAP field description.
 ZDELIVERY_REPORT/
 │
 ├── README.md
-│
-├── src/
-│   └── ZDELIVERY_REPORT.abap
+├── ZDELIVERY_REPORT.abap
 │
 └── screenshots/
-    └── delivery_report_alv.png
+    ├── abap_source_code.png
+    ├── selection_screen.png
+    └── alv_output.png
 ```
 
 ---
